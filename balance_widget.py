@@ -30,7 +30,7 @@ from PyQt6.QtGui import (
 CONFIG = {
     "margin_right": 24,
     "margin_top": 24,
-    "refresh_interval_ms": 10 * 60 * 1000,   # 每 10 分钟刷新
+    "refresh_interval_ms": 30 * 1000,   # 每 30 秒刷新
     "widget_width": 268,
     "widget_height": 148,
 }
